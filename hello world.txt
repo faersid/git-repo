@@ -1,6 +1,7 @@
-print("Hello world");
-print("Hello everybody");
-print("Hello go home");
-print("i love");
-print("dsfsdfsfsad");
-print("lololo");
+print("Hello world")
+print("Hello everybody")
+print("Hello go home")
+print("i love")
+print("dsfsdfsfsad")
+print("lololo")
+
